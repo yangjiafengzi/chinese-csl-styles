@@ -50,18 +50,6 @@ These differ from default CSL / English-language conventions — an agent will g
 - `test/README.md` — full manual testing workflow with Zotero and Word
 - Automated output comparison (`npm run generate`, `npm run compare`) is disabled in CI because Pandoc can't handle these files
 
-## Git Configuration
-
-```bash
-# Proxy (if needed)
-git config --global http.proxy http://127.0.0.1:7897
-git config --global https.proxy http://127.0.0.1:7897
-
-# GitHub CLI proxy
-set HTTP_PROXY=http://127.0.0.1:7897
-set HTTPS_PROXY=http://127.0.0.1:7897
-```
-
 ## Project Structure
 
 ```

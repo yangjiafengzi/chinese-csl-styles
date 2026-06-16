@@ -4,6 +4,12 @@
 
 Collection of Chinese CSL (Citation Style Language) files for academic journals. Used by Zotero and other reference managers for formatting citations and bibliographies.
 
+## Repository
+
+- **GitHub**: https://github.com/yangjiafengzi/chinese-csl-styles
+- **Branch**: master
+- **Author**: yangjiafengzi (denghanqing@whu.edu.cn)
+
 ## Commands
 
 ```bash
@@ -40,6 +46,38 @@ These differ from default CSL / English-language conventions — an agent will g
 ## Testing
 
 - `test/test-items.json` — CSL-JSON test items covering ~13 document types (import into Zotero)
-- `test/expected-output/` — reference output for 3 styles (社会学研究, 开放时代, 武汉大学学报)
+- `test/expected-output/` — reference output for 6 styles (所有样式)
 - `test/README.md` — full manual testing workflow with Zotero and Word
 - Automated output comparison (`npm run generate`, `npm run compare`) is disabled in CI because Pandoc can't handle these files
+
+## Git Configuration
+
+```bash
+# Proxy (if needed)
+git config --global http.proxy http://127.0.0.1:7897
+git config --global https.proxy http://127.0.0.1:7897
+
+# GitHub CLI proxy
+set HTTP_PROXY=http://127.0.0.1:7897
+set HTTPS_PROXY=http://127.0.0.1:7897
+```
+
+## Project Structure
+
+```
+中文csl/
+├── .github/workflows/test.yml  # GitHub Actions CI
+├── .gitignore
+├── AGENTS.md                   # This file
+├── LICENSE                     # MIT License
+├── README.md                   # Project documentation
+├── package.json                # Node.js config
+├── 体例说明与参考/              # Journal style guides
+├── test/                       # Test framework
+│   ├── test-items.json         # Test items (CSL-JSON)
+│   ├── test-items.bib          # Test items (BibTeX)
+│   ├── expected-output/        # Reference output (6 styles)
+│   ├── validate.js             # XML validation script
+│   └── README.md               # Testing documentation
+└── *.csl                       # CSL style files (6 journals)
+```

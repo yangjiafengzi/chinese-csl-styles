@@ -1,0 +1,25 @@
+{
+  "name": "chinese-csl",
+  "version": "1.0.0",
+  "description": "中文学术期刊CSL引文样式集合",
+  "scripts": {
+    "validate": "node test/validate.js",
+    "test": "node test/run-tests.js"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  },
+  "keywords": [
+    "csl",
+    "citation",
+    "academic",
+    "chinese",
+    "zotero"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}

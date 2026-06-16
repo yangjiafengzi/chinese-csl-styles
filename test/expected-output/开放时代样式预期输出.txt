@@ -1,0 +1,80 @@
+开放时代样式预期输出样本
+========================
+
+期刊文章（中文）：
+李强、王晓明，2023，《中国社会学研究的方法论反思》，《社会学研究》第3期，第1–25页。
+
+期刊文章（英文）：
+Li, Qiang & Xiaoming Wang. 2023. "Methodological Reflections on Chinese Sociology." Sociological Studies 38(3): 1-25.
+
+书籍（中文）：
+郑杭生，2019，《社会学概论新修》（第5版），北京：中国人民大学出版社。
+
+书籍（英文）：
+Zheng, Hangsheng. 2019. The Sociology of Chinese Society (5th ed.). Beijing: China Renmin University Press.
+
+书籍章节（中文）：
+李路路，2020，《社会分层与社会流动》，载中国社会科学院社会学研究所（编）：《中国社会学年鉴》，北京：社会科学文献出版社，第45–67页。
+
+书籍章节（英文）：
+Li, Lulu. 2020. "Social Stratification and Social Mobility." In Institute of Sociology, Chinese Academy of Social Sciences (eds.), China Sociology Yearbook. Beijing: Social Sciences Academic Press, pp. 45-67.
+
+学位论文（中文）：
+张三，2022，《当代中国城市社区治理研究》，北京大学博士学位论文。
+
+学位论文（英文）：
+Zhang, San. 2022. "Research on Contemporary Chinese Urban Community Governance." PhD dissertation, Peking University.
+
+会议论文（中文）：
+刘五，2023，《乡村振兴战略下的农村社会治理创新》，中国社会学年会，武汉。
+
+会议论文（英文）：
+Liu, Wu. 2023. "Innovation in Rural Social Governance under the Rural Revitalization Strategy." Paper presented at China Sociology Annual Conference, Wuhan.
+
+报告（中文）：
+中国社会科学院，2023，《中国社会发展报告2023》，北京：社会科学文献出版社。
+
+报告（英文）：
+Chinese Academy of Social Sciences. 2023. China Social Development Report 2023. Beijing: Social Sciences Academic Press.
+
+网页（中文）：
+中国社会科学院社会学研究所，2023，《中国社会学网》，http://www.sociology.cass.cn，2023年12月20日访问。
+
+网页（英文）：
+Institute of Sociology, Chinese Academy of Social Sciences. 2023. "Chinese Sociology Website." http://www.sociology.cass.cn, accessed December 20, 2023.
+
+报纸文章（中文）：
+陈六，2023，《新时代中国社会治理创新》，《人民日报》11月15日，第7版。
+
+报纸文章（英文）：
+Chen, Liu. 2023. "Innovation in Chinese Social Governance in the New Era." People's Daily, November 15, p. 7.
+
+杂志文章（中文）：
+赵七，2023，《中国社会变迁四十年》，《中国社会科学》第9期，第1–20页。
+
+杂志文章（英文）：
+Zhao, Qi. 2023. "Forty Years of Social Change in China." Social Sciences in China 44(9): 1-20.
+
+手稿（中文）：
+费孝通，1980，《中国社会学史手稿》，手稿，中国社会科学院社会学研究所档案室藏。
+
+手稿（英文）：
+Fei, Xiaotong. 1980. "Manuscript on the History of Chinese Sociology." Manuscript, Archive of Institute of Sociology, Chinese Academy of Social Sciences, Beijing.
+
+专利（中文）：
+国家统计局，2023，《一种社会调查方法及系统》，CN202310123456.7。
+
+专利（英文）：
+National Bureau of Statistics. 2023. "A Social Survey Method and System." CN202310123456.7.
+
+立法（中文）：
+全国人民代表大会常务委员会，2023，《中华人民共和国社会救助法》，主席令第十九号。
+
+立法（英文）：
+Standing Committee of the National People's Congress. 2023. Social Assistance Law of the People's Republic of China. Presidential Decree No. 19.
+
+法律案件（中文）：
+北京市朝阳区人民法院，2023，《张某诉李某社会救助纠纷案》，（2023）京0105民初12345号。
+
+法律案件（英文）：
+Beijing Chaoyang District People's Court. 2023. "Zhang v. Li Social Assistance Dispute Case." (2023) Beijing 0105 Civil First Instance No. 12345.
